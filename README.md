@@ -1,2 +1,2 @@
 # git-github
-Student learning project
+Student learning project. This is created for learning.
